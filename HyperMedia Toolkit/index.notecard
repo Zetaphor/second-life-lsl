@@ -1,0 +1,21 @@
+Sim Name: %SIM%<br />
+Position: %POSITION%<br />
+Parcel Name: %PARCELNAME%<br />
+Parcel Description: %PARCELDESC%<br />
+SLURL: <a href = "%SLURL%">Open SLURL</a><br />
+SL App URL: <a href="%APPURL%">Open Place Info in Client</a><br/ >
+Object Name: %ONAME%<br />
+Object Desc: %ODESC%<br />
+<br />
+<img src = "%TEXTUREID:8544b065-7f14-3dc8-e735-2fb089e2e989%">
+<a href = "%BURL%/link/test"><h1>Test</h1></a><br />
+<br />
+%FORMR:test%
+<form name="input" action="%URL%" method="post">
+Text: <input type="text" name="txtbox" />
+<input type="submit" value="Submit" />
+</form> 
+<br />Test Uservars: %dsa%
+<br />%blah%
+<br />%wtf%<br />
+<a href = "%BURL%/link/bullshit">Test 404</a>
